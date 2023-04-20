@@ -22,7 +22,7 @@ const Favorites = (props) => {
   return (
     <div>
       <div>
-        <h1 className='col-md-8 offset-md-2'>Избранные туры</h1>
+        <h1 className='col-md-8 offset-md-2'>Любимые двери</h1>
       </div>
     <div>
       {
